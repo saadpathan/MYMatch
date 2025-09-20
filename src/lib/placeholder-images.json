@@ -1,0 +1,10 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "A group of diverse professionals collaborating in a modern office space.",
+      "imageUrl": "https://picsum.photos/seed/grantmatch-hero/1200/600",
+      "imageHint": "business collaboration"
+    }
+  ]
+}
